@@ -1,0 +1,430 @@
+# Blender MTL File: 'None'
+# Material Count: 37
+
+newmtl mmd_tools_rigid_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.498039 0.866667 0.831373
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.941176 0.901961 0.549020
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.933333 0.509804 0.933333
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl mmd_tools_rigid_3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.894118 0.882353
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.500000
+illum 0
+
+newmtl 材質1
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kao.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kao.tga
+
+newmtl 材質10
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_eyes2base.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_eyes2base.tga
+
+newmtl 材質11
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_eyes2.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_eyes2.tga
+
+newmtl 材質12
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_eyes2.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_eyes2.tga
+
+newmtl 材質13
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_body.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_body.tga
+
+newmtl 材質14
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_body.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_body.tga
+
+newmtl 材質15
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.401569 0.401569 0.401569
+Ks 0.376471 0.376471 0.376471
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.309804 0.309804 0.309804
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+
+newmtl 材質17
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+
+newmtl 材質18
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+
+newmtl 材質19
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.137255 0.137255 0.137255
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+
+newmtl 材質2
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kao.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kao.tga
+
+newmtl 材質20
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.401569 0.401569 0.401569
+Ks 0.376471 0.376471 0.376471
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質21
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+
+newmtl 材質22
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.042667 0.087843 0.110431
+Ks 0.435000 0.435000 0.435000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質23
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質24
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質25
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質26
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.042667 0.087843 0.110431
+Ks 0.435000 0.435000 0.435000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 材質27
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質28
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質29
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質3
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+
+newmtl 材質30
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質31
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質32
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質33
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_r.tga
+
+newmtl 材質4
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami1.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami1.tga
+
+newmtl 材質5
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami2.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami2.tga
+
+newmtl 材質6
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami3.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami3.tga
+
+newmtl 材質7
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.120000 0.120000 0.120000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_fuku.tga
+
+newmtl 材質8
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami2.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami2.tga
+
+newmtl 材質9
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.250980 0.250980 0.250980
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami3.tga
+map_d D:\\stickkie\\Assets\\Assets\\yoko\\MODEL2\\y_tex_kami3.tga
