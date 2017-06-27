@@ -70,6 +70,10 @@ public class GunSmoke : MonoBehaviour {
                 Debug.DrawLine(transform.position, hit.point);
                 GameObject bulletInstance;
                 GameObject bulletHoleInstance;
+                if (targetGameObject.name != "pingu(Clone)" || targetGameObject.name != "Group")
+                {
+                    bulletHoleInstance = GameObject.Instantiate(bulletHole, hit.point, bulletHole.transform.rotation);
+                }
                 bulletInstance = GameObject.Instantiate(bullet, hit.point, bullet.transform.rotation);
                 Debug.Log("bullet instantiated");
                 Debug.DrawRay(barrelEnd.position, barrelEnd.up * 0.1f);

@@ -8,6 +8,7 @@ public class InstantiatePenguins : MonoBehaviour
     public Transform[] TransformLocations;
     public float SpawnEverySeconds = 10.0f;
     public Transform PlayerModel;
+    protected GameObject InstantiatedPenguin;
 
     private float SpawnPoints = 0;
     private float timer = 0;
@@ -31,7 +32,11 @@ public class InstantiatePenguins : MonoBehaviour
             int randSpawnLoc = Mathf.RoundToInt(Random.Range(0.0f, 4.0f));
             Vector3 relativePos = PlayerModel.position - TransformLocations[randSpawnLoc].position;
             Quaternion rotation = Quaternion.LookRotation(relativePos);
-            GameObject.Instantiate(EvilPenguin, TransformLocations[randSpawnLoc].position, rotation);
+            InstantiatedPenguin = GameObject.Instantiate(EvilPenguin, TransformLocations[randSpawnLoc].position, rotation);
+            if (InstantiatedPenguin.active == false)
+            {
+                InstantiatedPenguin.active = true;
+            }
             timer = 0;
         }
 
